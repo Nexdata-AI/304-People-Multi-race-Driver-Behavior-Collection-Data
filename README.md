@@ -1,8 +1,10 @@
 # 304-People-Multi-race-Driver-Behavior-Collection-Data
-https://www.datatang.ai/datasets/1075
+
 
 ## Description
 304 People Multi-race - Driver Behavior Collection Data. The data includes multiple ages, multiple time periods and multiple races (Caucasian, Black, Indian). The driver behaviors includes dangerous behavior, fatigue behavior and visual movement behavior. In terms of device, binocular cameras of RGB and infrared channels were applied. This data can be used for tasks such as driver behavior analysis.
+
+For more details, please refer to the link: https://bit.ly/3C8Aj9K
 
 ## Data size
 304 people
@@ -27,3 +29,6 @@ the video format is .avi
 
 ## Accuracy
 according to the accuracy of each person's action, the accuracy is greater than 95%; the accuracy of label annotation is not less than 95%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
