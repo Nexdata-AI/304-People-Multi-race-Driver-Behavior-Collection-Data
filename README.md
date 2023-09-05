@@ -4,7 +4,8 @@
 ## Description
 304 People Multi-race - Driver Behavior Collection Data. The data includes multiple ages, multiple time periods and multiple races (Caucasian, Black, Indian). The driver behaviors includes dangerous behavior, fatigue behavior and visual movement behavior. In terms of device, binocular cameras of RGB and infrared channels were applied. This data can be used for tasks such as driver behavior analysis.
 
-For more details, please refer to the link: https://bit.ly/3C8Aj9K
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1075?source=Github
+
 
 ## Data size
 304 people
