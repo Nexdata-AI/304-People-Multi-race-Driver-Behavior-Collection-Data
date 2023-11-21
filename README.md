@@ -32,4 +32,4 @@ the video format is .avi
 according to the accuracy of each person's action, the accuracy is greater than 95%; the accuracy of label annotation is not less than 95%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
